@@ -12,4 +12,7 @@ and finally the .bat file launches rikaA.js but you need to copy the rikaA.js pa
 2. open .bat with notepad or whatever you like 
 3. you gonna see "Your-rikaA.js-path-here" select it all and paste your path
 
+and before running .bat make sure you run this command on the cmd:
+npm install discord.js dotenv
+
 hope you like it..
