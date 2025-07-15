@@ -15,4 +15,6 @@ and finally the .bat file launches rikaA.js but you need to copy the rikaA.js pa
 and before running .bat make sure you run this command on the cmd:
 npm install discord.js dotenv
 
+and make sure you have node.js downloaded and if not you can download it from their official website.
+
 hope you like it..
