@@ -1,3 +1,3 @@
 @echo off
-node rikaA.js
+node Your-rikaA.js-path-here
 pause
