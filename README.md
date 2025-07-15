@@ -6,5 +6,10 @@ the rikaA.js is the code for the filter and you can add any other bad word you w
 
 and you need to put your discord bot token in the .env file
 
-and finally the .bat file launches rikaA.js .
+and finally the .bat file launches rikaA.js but you need to copy the rikaA.js path and put it inside.
+
+copy rikaA.js path (right click on it and copy path)
+open .bat with notepad or whatever you like 
+you gonna see 
+
 hope you like it..
