@@ -8,8 +8,8 @@ and you need to put your discord bot token in the .env file
 
 and finally the .bat file launches rikaA.js but you need to copy the rikaA.js path and put it inside.
 
-copy rikaA.js path (right click on it and copy path)
-open .bat with notepad or whatever you like 
-you gonna see 
+1. copy rikaA.js path (right click on it and copy path)
+2. open .bat with notepad or whatever you like 
+3. you gonna see "Your-rikaA.js-path-here" select it all and paste your path
 
 hope you like it..
